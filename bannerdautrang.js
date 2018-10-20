@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://3.bp.blogspot.com/-UDZ6Z0PK0xw/W8h3ijGNRnI/AAAAAAAAAfM/g8RyoFwoxuYp7ZlSOH-wB_bv8RI-Yv_HgCLcBGAs/s320/Untitled.png' width='500px'/><br/>Máy tính chính  hãng</a>. Cybergame. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://cybervietnam.vn' target='_blank'><img src='https://3.bp.blogspot.com/-UDZ6Z0PK0xw/W8h3ijGNRnI/AAAAAAAAAfM/g8RyoFwoxuYp7ZlSOH-wB_bv8RI-Yv_HgCLcBGAs/s320/Untitled.png' width='500px'/><br/>Máy tính chính  hãng</a>. Cybergame. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
